@@ -40,11 +40,3 @@ MyToken is a Solidity smart contract that implements an ERC20 token. It extends 
 
 - Ensure that only trusted entities have access to the contract owner's address to prevent unauthorized minting or manipulation of token supply.
 - Review and test the contract thoroughly before deploying it to a production environment to ensure its security and functionality.
-
-## License
-
-This smart contract is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize the README file further to include additional information or instructions specific to your project or use case.
