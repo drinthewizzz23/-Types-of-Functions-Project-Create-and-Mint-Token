@@ -1,10 +1,10 @@
-#Wanderlust Adventures
+Wanderlust Adventures
 Welcome to Wanderlust Adventures, where we explore the world through my lens! Whether you're a seasoned traveler or armchair adventurer, this blog is your gateway to discovering new sights, flavors, and experiences from around the globe.
 
-#Table of Contents
+Table of Contents
 Home
 
-#Overview of the blog's mission and what visitors can expect.
+Overview of the blog's mission and what visitors can expect.
 Destinations
 
 Explore various destinations I've visited, including travel guides, tips, and personal anecdotes.
